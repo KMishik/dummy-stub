@@ -1,0 +1,19 @@
+{
+  "name": "dummy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KMishik",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jquery": "^3.3.4",
+    "browser-sync": "^2.24.5",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1",
+    "gulp-typescript": "^5.0.0-alpha.2",
+    "typescript": "^2.9.2"
+  }
+}
