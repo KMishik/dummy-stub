@@ -2,25 +2,25 @@
   position: relative;
 }
 
-.subdiv__title, .subdiv__month {
+.subdiv__title, .month__title {
   display: inline-block;
 }
 
-.subdiv__date_hidden, .subdiv__doclinks_hidden {
+.list_hidden {
   display: none;
 }
 
-.subdiv__title:hover, .subdiv__month:hover {
+.subdiv__title:hover, .month__title:hover {
   cursor: pointer;
   text-decoration: underline;
 }
 
-.subdiv__month {
+.month__title {
   position: relative;
   left: 20px;
 }
 
-.subdiv__link {
+.month__link {
   position: relative;
   left: 50px;
 }
